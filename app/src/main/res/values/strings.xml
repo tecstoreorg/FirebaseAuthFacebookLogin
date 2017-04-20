@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">FirebaseAuthFacebookLogin</string>
+    <string name="facebook_app_id">ENTER YOUR APP ID FROM FACEBOOK</string>
+
+    <string name="fb_login_protocol_scheme">ENTER YOUR FBLOGIN PROTOCOL</string>
+
+
+</resources>
